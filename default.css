@@ -1,0 +1,134 @@
+	#sessao {
+		padding: 6em 0;
+		background: #6cc091;
+		color: #fff;
+		text-align: center;
+	}
+
+
+	/*********************************************************************************/
+	/* Footer                                                                        */
+	/*********************************************************************************/
+	
+	#footer-wrapper
+	{
+		overflow: auto;
+		padding: 1em 0em;
+		background: #6cc091;
+	}
+
+	
+	
+	#box1
+	{
+		float: left;
+		width: 400px;
+		margin-right: 24px;
+		padding-right: 30px;
+		background: #fff;
+	}
+	
+	#box2
+	{
+		float: right;
+		width: 400px;
+		margin-left: 24px;
+		padding-right: 30px;
+		background: #fff;
+	}
+
+
+	/*********************************************************************************/
+	/* Copyright                                                                     */
+	/*********************************************************************************/
+
+	#copyright
+	{
+		overflow: hidden;
+		padding: 0.1em 0em;
+		text-align: center;
+		background: #fff;
+	}
+	
+	#copyright p
+	{
+		letter-spacing: 0.20em;
+		text-align: center;
+		text-transform: uppercase;
+		font-size: 0.50em;
+		color: #6F6F6F;
+	}
+	
+	#copyright a
+	{
+		text-decoration: none;
+		color: #8C8C8C;
+	}
+
+
+
+	/*********************************************************************************/
+	/* Icones adiconados para contato*/
+	/*********************************************************************************/
+
+
+	.fa {
+		padding: 20px;
+		font-size: 30px;
+		width: 30px;
+		text-align: center;
+		text-decoration: none;
+		margin: 5px 2px;
+		border-radius: 50%;
+	}
+
+	.fa:hover {
+		opacity: 0.7;
+	}
+
+	.fa-facebook {
+		background: #3B5998;
+		color: white;
+	}
+
+	.fa-linkedin {
+		background: #007bb5;
+		color: white;
+	}
+
+	.fa-youtube {
+		background: #bb0000;
+		color: white;
+	}
+
+
+	.fa-whatsapp{
+		background: #04D976;
+		color: white;
+	}
+
+	.fa-envelope-o{
+		background: #F20302;
+		color: white;
+	}
+
+	.fa-github-square{
+		background: #000;
+		color: white;
+	}
+
+	.fa-telegram{
+		background: #32AFED;
+		color: white;
+	}
+
+
+
+
+
+
+
+
+
+
+	
